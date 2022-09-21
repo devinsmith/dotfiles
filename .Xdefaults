@@ -1,0 +1,4 @@
+xterm*background: #111111
+xterm*foreground: #dddddd
+xterm*loginShell: true
+xterm*termName: xterm-256color
